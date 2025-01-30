@@ -46,10 +46,10 @@ You'll see a venv folder has been added to the directory with all of the install
 To run your code, in the command line run:
 
 Without a debugger:
-`flask run`
+`python -m flask run`
 
 With a debugger:
-`flask run --debug`
+`python -m flask run --debug`
 
 <br>
 
